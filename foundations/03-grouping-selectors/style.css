@@ -1,0 +1,14 @@
+#blackBtn {
+    background-color: black;
+    color: white;
+}
+
+#fancyBtn {
+    background-color: yellow;
+}
+
+.btn {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', san serif;
+}
+
