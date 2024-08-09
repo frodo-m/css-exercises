@@ -46,12 +46,13 @@ li {
   justify-content: center;
   align-items: center;
   border-radius: 4px;
+  background-color: rgb(202, 253, 197);
 }
 
 li:hover {
-  background-color: rgb(252, 205, 186);
+  background-color: rgb(255, 168, 168);
   cursor: cell;
-  transition: 0.5s;
+  transition: 1.5s;
   transform: scale(1.2);
   border-radius: 10px;
 }
